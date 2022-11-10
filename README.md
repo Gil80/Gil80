@@ -13,7 +13,7 @@ My previous roles included the modernization of tools & workflows for web and mo
 
 
 *   🌍  I'm based in Netanya, Israel
-*   🖥️  See my portfolio at [Python - World of Games](http://github.com/Gil80/World-of-Games)
+*   🖥️  See my portfolio at [DevOps - Demo](https://github.com/Gil80/DevOps-Exercises)
 *   ✉️  You can contact me at [mr.levy.gil@gmail.com](mailto:mr.levy.gil@gmail.com)
 *   🧠  I'm learning AWS Cloud Solution Architect - Associate SAA-C03
 *   ⚡  I'm into aviation and flight-sims, VR and professional photography### Skills
