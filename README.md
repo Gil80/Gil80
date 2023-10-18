@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps Engineer
 ---------------
 
-I'm a consultant at Deloitte Israel Cloud Practice and a certified GCP Professional Cloud Architect, AWS Certified SysOps Administrator and AWS Certified Solutions Architect.
+I'm a consultant at Deloitte Israel Cloud Practice and a certified **GCP Professional Cloud Architect**, **AWS Certified SysOps Administrator** and **AWS Certified Solutions Architect**.
 I moved back to Israel after working for 10 years in Sydney, Australia. My work experience spans across various tech companies in the eCommerce, Retail and Hospitality industries.
 
 I have more than 15 years in various roles in Software Development Lifecycle, such as QA Manager, Tech Support Manager, Release manager, Atlassian system implementation & administration, Workflow Automation and Scrum Master.
@@ -12,11 +12,9 @@ I have more than 15 years in various roles in Software Development Lifecycle, su
 My previous roles included the modernization of tools & workflows for web and mobile applications, large-scale test planning and more recently, Google Cloud Platform technical support.
 
 
-*   🌍  I'm based in Netanya, Israel
+*   🌍  I'm based in Nesher, Israel
 *   🖥️  See my portfolio at [DevOps - Demo](https://github.com/Gil80/DevOps-Exercises), [World-of-Games](https://github.com/Gil80/World-of-Games)
 *   ✉️  You can contact me at [mr.levy.gil@gmail.com](mailto:mr.levy.gil@gmail.com)
-*   🧠  I'm learning AWS Cloud Solution Architect - Associate SAA-C03
-*   ⚡  I'm into aviation and flight-sims, VR and professional photography### Skills
 
 
 <p align="left">
