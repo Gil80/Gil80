@@ -6,7 +6,7 @@ DevOps Engineer
 
 I'm a consultant at Deloitte Israel Cloud Practice and a certified GCP Professional Cloud Architect, AWS Certified SysOps Administrator, and AWS Certified Solutions Architect. After a decade in Sydney, Australia, I returned to Israel. My diverse work experience spans multiple tech companies in the eCommerce, Retail, and Hospitality industries.
 
-With over 15 years in various Software Development Lifecycle roles—such as QA Manager, Tech Support Manager, Release Manager, Atlassian system implementation & administration, Workflow Automation, and Scrum Master—I've led projects involving the modernization of tools & workflows for web and mobile applications. I've also spearheaded large-scale test planning and, more recently, provided technical support for Google Cloud Platform.
+With over 15 years in various Software Development Lifecycle roles - such as QA Manager, Tech Support Manager, Release Manager, Atlassian system implementation & administration, Workflow Automation, and Scrum Master - I've led projects involving the modernization of tools & workflows for web and mobile applications. I've also spearheaded large-scale test planning and, more recently, provided technical support for Google Cloud Platform.
 
 
 *   🌍  I'm based in Nesher, Israel
