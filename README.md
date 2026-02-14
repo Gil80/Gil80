@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gil Levy
 ================================================================================================================================
 
-DevOps Engineer
----------------
+Technical Project Manager
+-------------------------
 
-I'm a consultant at Deloitte Israel Cloud Practice and a certified GCP Professional Cloud Architect, AWS Certified SysOps Administrator, and AWS Certified Solutions Architect. After a decade in Sydney, Australia, I returned to Israel. My diverse work experience spans multiple tech companies in the eCommerce, Retail, and Hospitality industries.
-
-With over 15 years in various Software Development Lifecycle roles - such as QA Manager, Tech Support Manager, Release Manager, Atlassian system implementation & administration, Workflow Automation, and Scrum Master - I've led projects involving the modernization of tools & workflows for web and mobile applications. I've also spearheaded large-scale test planning and, more recently, provided technical support for Google Cloud Platform.
+Technical Project Manager with hands-on engineering depth across mobile apps, firmware, SaaS, and hardware-software products. Most recently led end-to-end product delivery at Unplugged, coordinating a 17-person cross-functional team shipping a privacy-focused smartphone (UP Phone) to 10,000+ users across the US and Europe.
+Before that, I spent a decade in Sydney working across SiteMinder, Fujifilm, and Macromatix in roles spanning QA management, release management, and Scrum. I also hold GCP Professional Cloud Architect, AWS Solutions Architect, and AWS SysOps Administrator certifications from my time at Deloitte.
+I'm currently looking for my next PM role in Israel, ideally in SaaS, cybersecurity, or hardware-software. Open to interesting problems and good teams.
 
 
 *   🌍  I'm based in Nesher, Israel
