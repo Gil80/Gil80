@@ -4,10 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Technical Project Manager
 -------------------------
 
-Technical Project Manager with hands-on engineering depth across mobile apps, firmware, SaaS, and hardware-software products. Most recently led end-to-end product delivery at Unplugged, coordinating a 17-person cross-functional team shipping a privacy-focused smartphone (UP Phone) to 10,000+ users across the US and Europe.
-Before that, I spent a decade in Sydney working across SiteMinder, Fujifilm, and Macromatix in roles spanning QA management, release management, and Scrum. I also hold GCP Professional Cloud Architect, AWS Solutions Architect, and AWS SysOps Administrator certifications from my time at Deloitte.
-
-I'm currently looking for my next PM role in Israel, ideally in SaaS, cybersecurity, or hardware-software. Open to interesting problems and good teams.
+Technical Project Manager with hands-on engineering depth across mobile apps,
+firmware, SaaS, and hardware-software products. Most recently led end-to-end
+product delivery at Unplugged, coordinating a 17-person cross-functional team
+shipping a privacy-focused smartphone to 10,000+ users across the US and Europe.
+Before that, spent a decade in Sydney working across SiteMinder, Fujifilm, and
+Macromatix in roles spanning QA management, release management, and Scrum.
+Hold GCP Professional Cloud Architect, AWS Solutions Architect, and AWS SysOps
+Administrator certifications.
 
 
 *   🌍  I'm based in Nesher, Israel
