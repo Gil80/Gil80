@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gil Levy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gil
 ================================================================================================================================
 
 Technical Project Manager
@@ -15,7 +15,7 @@ Administrator certifications.
 
 
 *   🌍  I'm based in Nesher, Israel
-*   🖥️  See my portfolio at [DevOps - Demo](https://github.com/Gil80/DevOps-Exercises), [World-of-Games](https://github.com/Gil80/World-of-Games)
+*   🖥️  See my portfolio at [DevOps - Demo](https://github.com/Gil80/devops), [World-of-Games](https://github.com/Gil80/World-of-Games)
 *   ✉️  You can contact me at [mr.levy.gil@gmail.com](mailto:mr.levy.gil@gmail.com)
 
 
@@ -30,6 +30,4 @@ Administrator certifications.
                   
 <p align="left">
 <a href="https://www.github.com/Gil80" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="http://www.instagram.com/iamgillevy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/gil-levy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://www.twitter.com/nik0ndude" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
