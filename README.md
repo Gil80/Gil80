@@ -4,14 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Technical Project Manager & Product Manager
 -------------------------------------------
 
-Technical Project Manager with hands-on engineering depth across mobile apps,
-firmware, SaaS, and hardware-software products. Most recently led end-to-end
-product delivery at Unplugged, coordinating a 17-person cross-functional team
-shipping a privacy-focused smartphone to 10,000+ users across the US and Europe.
-Before that, spent a decade in Sydney working across SiteMinder, Fujifilm, and
-Macromatix in roles spanning QA management, release management, and Scrum.
-Hold GCP Professional Cloud Architect, AWS Solutions Architect, and AWS SysOps
-Administrator certifications.
+Project manager with 15+ years in tech across Israel and Australia, spanning QA, release management and product delivery.
+At Unplugged, shipped a privacy-focused smartphone to 10,000+ users in the US and Europe, leading a 17-person team across Android, iOS, backend, QA and R&D.
+Built automations that eliminated hours of manual overhead. GCP Professional Cloud Architect and AWS Solutions Architect.
 
 
 *   🌍  I'm based in Nesher, Israel
